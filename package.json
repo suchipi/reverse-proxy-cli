@@ -1,0 +1,21 @@
+{
+  "name": "reverse-proxy-cli",
+  "version": "0.1.0",
+  "description": "A simple CLI for running a reverse proxy",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "reverse",
+    "proxy",
+    "http",
+    "nginx",
+    "cli"
+  ],
+  "author": "Lily Scott <me@suchipi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.1",
+    "http-proxy": "^1.18.1"
+  },
+  "repository": "https://github.com/suchipi/reverse-proxy-cli"
+}
