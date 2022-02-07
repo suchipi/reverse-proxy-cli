@@ -1,6 +1,6 @@
 {
   "name": "reverse-proxy-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple CLI for running a reverse proxy",
   "main": "index.js",
   "bin": "index.js",
