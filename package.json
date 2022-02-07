@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A simple CLI for running a reverse proxy",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {},
   "keywords": [
     "reverse",

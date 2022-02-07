@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const httpProxy = require("http-proxy");
 const arg = require("arg");
 
